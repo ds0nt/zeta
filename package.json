@@ -1,0 +1,19 @@
+{
+  "name": "zeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zeta.js",
+  "dependencies": {
+    "koa": "^1.0.0",
+    "koa-json": "^1.1.1",
+    "koa-json-body": "^4.0.0",
+    "kcors": "^1.0.1",
+    "koa-route": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
